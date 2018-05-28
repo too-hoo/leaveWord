@@ -5,11 +5,12 @@ import java.sql.Date;
 /**
  * 留言板信息实体类
  * 
+ * 
  * @author toohoo
  *
  */
 public class Message {
-	private String id;
+	private String id;    //id一般是String类型
 	private String name;
 	private Date time;
 	private String title;

@@ -8,7 +8,7 @@ package beans;
 public class User {
 	
 	private String id;   //id一般是String才合理
-	private String name;
+	private String name;  //名字字段
 	private String password;// 密码是字符串
 	private String role;
 	public String getId() {
