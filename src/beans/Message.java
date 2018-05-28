@@ -4,6 +4,7 @@ import java.sql.Date;
 
 /**
  * 留言板信息实体类
+ * 
  * @author toohoo
  *
  */

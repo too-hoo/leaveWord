@@ -6,9 +6,10 @@ package beans;
  *
  */
 public class User {
-	private String id;
+	
+	private String id;   //id一般是String才合理
 	private String name;
-	private String password;
+	private String password;// 密码是字符串
 	private String role;
 	public String getId() {
 		return id;

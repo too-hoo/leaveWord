@@ -10,7 +10,6 @@ import utils.JdbcUtils;
 public class UserDao {
 	
 	/**
-	 * 
 	 * @param username
 	 * @param password
 	 * @return
